@@ -3,8 +3,9 @@
 # familytree
 Open Source Family TRee Application based on Laravel 5.7.x
 
-[![Software License](https://img.shields.io/badge/license-GNU-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Software License](https://img.shields.io/badge/license-GNU-blue.svg?style=flat-square)](LICENSE.md)
 ![Version](https://img.shields.io/badge/version-0.0.1-brightgreen.svg?style=flat-square)
+![Laravel](https://img.shields.io/badge/laravel-5.7.25-brightgreen.svg?style=flat-square)
 
 >Developed by Alvin Bakker<br />
 >Copyright 2019 Alvin Bakker - Curacao
