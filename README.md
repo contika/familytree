@@ -4,7 +4,7 @@
 Open Source Family TRee Application based on Laravel 5.7.x
 
 [![Software License](https://img.shields.io/badge/license-GNU-brightgreen.svg?style=flat-square)](LICENSE.md)
-![Version](https://img.shields.io/badge/version-beta0.0.2-brightgreen.svg?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.0.1-brightgreen.svg?style=flat-square)
 
 >Developed by Alvin Bakker<br />
 >Copyright 2019 Alvin Bakker - Curacao
@@ -13,12 +13,8 @@ Please Do NOT download this repository yet, as I am just starting!!
 
 ***********************************************************************************
 ### About
-I have created this open source blog CMS as current open source 
-systems like WordPress are an overkill for the average users. 
-I am using my experience as lead developer at a firm that created 
-a custom very advanced CMS. Using user feedback from our clients using
-the CMS, I have quite a great knowledge of what people want with a fairly
-quite simple site / CMS.
+Currently my Family tree is in flat HTML. Creating this application will make it easier 
+for me to update this flat HTML on new data that keeps on being received. 
 
 Please enjoy! Any feedback is very well appreciated.
 
@@ -33,15 +29,6 @@ After cloning this repository, please follow these steps:
  - Copy .env.example to .env and add database login info
  - Run `php artisan migrate` from command prompt
  
-***********************************************************************************
-### What will this CMS have?
-As Laravel uses blades I will create this CMS using multiple templates. With a 
-little knowledge of HTML (Blade templating) and CSS these templates are easy 
-to adjust to your own preference:
-
- - Front end blades are located in the `app\Views\templates` folder
- - The corresponding CSS, JS and image files are located in the corresponding 
-  `public\assets\templates` folder
   
   
   
