@@ -1,7 +1,7 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 # familytree
-Open Source Family TRee Application based on Laravel 5.7.x
+Open Source Family Tree Application based on Laravel 5.7.x
 
 [![Software License](https://img.shields.io/badge/license-GNU-blue.svg?style=flat-square)](LICENSE.md)
 ![Version](https://img.shields.io/badge/version-0.0.1-brightgreen.svg?style=flat-square)
