@@ -14,8 +14,9 @@ Please Do NOT download this repository yet, as I am just starting!!
 
 ***********************************************************************************
 ### About
-Currently my Family tree is in flat HTML. Creating this application will make it easier 
-for me to update this flat HTML on new data that keeps on being received. 
+Currently my Family tree is in flat HTML. Creating this application and converting data
+to a Database Model will make it easier for me to update my tree with new data that is
+continuously received. 
 
 Please enjoy! Any feedback is very well appreciated.
 
